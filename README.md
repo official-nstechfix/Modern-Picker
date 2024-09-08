@@ -1,10 +1,24 @@
-Here's a detailed README.md file template for your ModernPicker Chrome extension:
+
 
 ---
 
 # ModernPicker - Chrome Extension
 
 ModernPicker is a fully-featured color picker Chrome extension designed to assist developers, designers, and anyone working with colors. It offers an intuitive interface, allowing users to easily select colors, convert between various color formats, save color history, and switch between light and dark themes. The extension comes equipped with a modern user interface and a rich set of features that ensure an excellent user experience.
+
+
+## 📸 Screenshots
+
+![Extension Preview Light Mode]
+*Light mode view with Modern Picker.*![Light](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Modern%20Picker/Screenshot%20(76).png)
+---
+
+![Extension Preview Dark Mode]
+*Dark mode view with Modern Picker.*![Dark](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Modern%20Picker/Screenshot%20(75).png)
+
+
+---
+*Dark mode view with media controls.*
 
 ## Features
 
@@ -42,19 +56,11 @@ ModernPicker supports both light and dark themes to match your browser and deskt
 - **Light Mode**: Optimized for brightly lit environments with a white background and dark text.
 - **Dark Mode**: Best for low-light environments, offering a dark background and light text to reduce eye strain.
 
-- 
-## 📸 Screenshots
-
-![Extension Preview Light Mode]
-*Light mode view with media controls.*![Light](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Modern%20Picker/Screenshot%20(76).png)
-
-
-![Extension Preview Dark Mode]![Dark](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Modern%20Picker/Screenshot%20(75).png)
-
-*Dark mode view with media controls.*
-
 ---
 
+
+
+---
 
 ### 5. **Copy Notification**
 When a color code is copied, a popup notification appears on the screen to confirm the successful copy. This ensures that users can confidently know that their color codes are saved to the clipboard.
