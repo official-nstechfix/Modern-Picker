@@ -42,6 +42,20 @@ ModernPicker supports both light and dark themes to match your browser and deskt
 - **Light Mode**: Optimized for brightly lit environments with a white background and dark text.
 - **Dark Mode**: Best for low-light environments, offering a dark background and light text to reduce eye strain.
 
+- 
+## 📸 Screenshots
+
+![Extension Preview Light Mode]
+*Light mode view with media controls.*![Light](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Modern%20Picker/Screenshot%20(76).png)
+
+
+![Extension Preview Dark Mode]![Dark](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Modern%20Picker/Screenshot%20(75).png)
+
+*Dark mode view with media controls.*
+
+---
+
+
 ### 5. **Copy Notification**
 When a color code is copied, a popup notification appears on the screen to confirm the successful copy. This ensures that users can confidently know that their color codes are saved to the clipboard.
 
@@ -121,9 +135,6 @@ We appreciate all contributions, from minor improvements to full features!
 
 If you encounter any issues or bugs, please report them on the [Issues](https://github.com/yourusername/ModernPicker/issues) page. Be sure to include detailed information so we can resolve the problem quickly.
 
-## License
-
-ModernPicker is open-source and licensed under the MIT License. See the [LICENSE](https://github.com/yourusername/ModernPicker/blob/main/LICENSE) file for more details.
 
 ---
 
