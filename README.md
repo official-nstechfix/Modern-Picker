@@ -7,20 +7,26 @@
 ModernPicker is a fully-featured color picker Chrome extension designed to assist developers, designers, and anyone working with colors. It offers an intuitive interface, allowing users to easily select colors, convert between various color formats, save color history, and switch between light and dark themes. The extension comes equipped with a modern user interface and a rich set of features that ensure an excellent user experience.
 
 
+
 ## 📸 Screenshots
 
-![Extension Preview Light Mode]
-*Light mode view with Modern Picker.*![Light](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Modern%20Picker/Screenshot%20(76).png)
----
-
-![Extension Preview Dark Mode]
-*Dark mode view with Modern Picker.*![Dark](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Modern%20Picker/Screenshot%20(75).png)
+### Light Mode
+![Extension Preview Light Mode](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Modern%20Picker/Screenshot%20(76).png)
 
 
 ---
-*Dark mode view with media controls.*
 
-## Features
+### Dark Mode
+
+![Extension Preview Dark Mode](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Modern%20Picker/Screenshot%20(75).png)
+
+
+---
+
+
+
+
+
 
 ### 1. **Color Picker Tool**
 ModernPicker offers a built-in color picker tool that enables users to select colors directly from the interface. This color picker is compatible with Chrome's built-in color selection functionality, making it easy to choose colors for design and development work.
