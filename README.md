@@ -1,7 +1,5 @@
 
 
----
-
 # ModernPicker - Chrome Extension
 
 ModernPicker is a fully-featured color picker Chrome extension designed to assist developers, designers, and anyone working with colors. It offers an intuitive interface, allowing users to easily select colors, convert between various color formats, save color history, and switch between light and dark themes. The extension comes equipped with a modern user interface and a rich set of features that ensure an excellent user experience.
@@ -65,9 +63,6 @@ ModernPicker supports both light and dark themes to match your browser and deskt
 ---
 
 
-
----
-
 ### 5. **Copy Notification**
 When a color code is copied, a popup notification appears on the screen to confirm the successful copy. This ensures that users can confidently know that their color codes are saved to the clipboard.
 
@@ -83,7 +78,7 @@ To install ModernPicker on your Chrome browser, follow these steps:
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/ModernPicker.git
+   git clone https://github.com/official-nstechfix/Modern-Picker.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions/`.
@@ -145,7 +140,7 @@ We appreciate all contributions, from minor improvements to full features!
 
 ## Issues
 
-If you encounter any issues or bugs, please report them on the [Issues](https://github.com/yourusername/ModernPicker/issues) page. Be sure to include detailed information so we can resolve the problem quickly.
+If you encounter any issues or bugs, please report them on the [Issues](https://github.com/official-nstechfix/Modern-Picker/issues) page. Be sure to include detailed information so we can resolve the problem quickly.
 
 
 ---
